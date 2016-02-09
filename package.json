@@ -1,0 +1,13 @@
+{
+  "name": "SquirtGun",
+  "description": "An automated squirt gun that fire when you pass behind it",
+  "repository": "https://github.com/klefevre/SquirtGun",
+  "license": "MIT",
+  "version": "0.0.1",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+  }
+}
